@@ -1,0 +1,50 @@
+﻿jardinier < il plante des fleurs, des légumes
+nettoyeur < il nettoie les institutions publiques
+le boucher < il vend de la viande
+marchand de légumes < des uns vendent des fruits, des autres vendent des…
+bijoutier < il a beaucoup de bijoux
+agent immobilier < il t’aide quand tu veux acheter une maison
+opticien < le vendeur de lunettes 
+dentiste < grâce à lui, tu n’as pas des problèmes avec les dents
+pharmacienne < il vend des médicaments
+infirmière < chaque docteur a une…..
+vétérinaire < le docteur des animaux
+fermier < personne propriétaire d’un domaine agricole ou qui l’exploite
+pêcheur < personne qui s’adonne à l’action de prendre ou chercher à prendre du poisson
+marin < personne dont la profession est de naviguer
+policier < membre de la police
+garde < personne qui surveille, qui garde un lieu ou quelqu’un
+pompier < personne qui s’emploie à combattre des incendies
+avocat < personne qui fait profession de plaider en justice pour ses clients
+comptable < personne qui a trait à la comptabilité
+architecte < personne qui réalise les plans et dirige la construction des édifices
+institutrice < enseignant des écoles maternelles et primaires
+bibliothécaire < personne chargée de l’achat, du classement et du prêt des ouvrages d’une bibliothèque
+chef < personne qui organise et dirige la cuisine d’un restaurant
+musicien < personne qui compose ou qui joue de la musique
+danseuse < femme dont la danse est le métier
+comédien < acteur qui joue à la télévision, au cinéma ou au théâtre
+chanteuse < personne qui pratique le chant
+serveuse < femme dont le métier consiste à accueillir, proposer et apporter les plats ou les boissons au sein d’un café, d’un bar ou d’un restaurant
+sculpteur < personne qui sculpte des matériaux
+sportif < personne qui aime ou qui pratique le sport
+peintre < personne qui peint les murs, les plafonds, les façades
+photographe < personne qui prend des photographies
+Présentateur < personne  qui présente un spectacle ou une émission
+journaliste < personne qui collabore à la préparation d’un journal écritnou audiovisuel
+dessinatrice < personne qui dessine
+couturier  <   personne qui confectionne des vêtements
+électricien < ouvrier ou artisan spécialiste de l’électricité
+plombier   <   personne qui pose et entretient les 
+maçon < personne qui réalise des ouvrages de maçonnerie
+mécanicien < personne qui monte, entretient et conduit des machines ou des moteurs
+coiffeur < personne dont le métier est de couper les cheveux
+soldat < homme qui sert dans une armée
+menuisier < artisan qui travaille le bois pour en faire des meubles, des parquets
+fleuriste < personne qui cultive ou qui vend des fleurs
+marchand de poissons < personne qui vend des poissons
+scientifique < personne spécialisé dans une ou plusieurs sciences
+facteur < employé qui distribue le courrier et les paquets envoyés par la poste
+conducteur de train < personne qui conduit les trains d’une ville à une autre
+chauffeur de taxi < personne dont le métier est de transporter des personnes dans son véhicule de fonction
+camionneur < conducteur de camion de transport

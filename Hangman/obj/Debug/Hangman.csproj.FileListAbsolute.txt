@@ -1,0 +1,45 @@
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\Hangman.exe.config
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.exe
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.pdb
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.Form2.resources
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.Form3.resources
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.Form4.resources
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\animaux.txt
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\chanteurs.txt
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\fleurs.txt
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\livres.txt
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\Légumes.txt
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\metiers.txt
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\55166.wav
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\applause-01.wav
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\ooooh.wav
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\scor.txt
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\Hangman.exe
+D:\Projects\proiect\salvare in caz de ceva\3\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\animaux.txt
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\chanteurs.txt
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\fleurs.txt
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\livres.txt
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\Légumes.txt
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\metiers.txt
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\55166.wav
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\applause-01.wav
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\ooooh.wav
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\scor.txt
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.Form2.resources
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.Form3.resources
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.Form4.resources
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Savin\Desktop\hangman final\Hangman\Hangman\obj\Debug\Hangman.pdb
